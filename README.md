@@ -27,7 +27,7 @@
   <br>
   By signing up you agree to the <a href="terms.html">terms and conditions</a> of the website.
 </form></td>
-                <td width="45%"><img src="algo.png" alt="algorithms"></td>
+                <td width="45%"><img src="algo.png" alt="algo"></td>
             </tr>
         </table>
  <table border="0" width="100%" cellpadding="18">
