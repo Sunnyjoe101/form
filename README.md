@@ -3,13 +3,11 @@
 <html>
 
 <head>
-  <title>
-    WUFU
-  </title>
+  <title>WUFU</title>
   <link rel="stylesheet" type="text/css" href="internal.css">
 </head>
 <body>
-     
+     <table border="0" width="100%" cellpadding="18">
             <tr>
                 <td width="55%"><h1>Sign up</h1><form action="/action_page.php">
   <label for="fname">First name:</label><br>
@@ -36,7 +34,7 @@
             <tr bgcolor="yellow">
                 <td width="100%"><font face="verdana" color="blue">Technology is our watch word</font></td>
 
-            </tr>
+            
  </table>
 </body>
 
