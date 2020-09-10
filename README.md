@@ -3,7 +3,7 @@
 <html>
 
 <head>
-  <title>WUFU</title>
+  
   <link rel="stylesheet" type="text/css" href="internal.css">
 </head>
 <body>
