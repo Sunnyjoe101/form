@@ -9,7 +9,7 @@
   <link rel="stylesheet" type="text/css" href="internal.css">
 </head>
 <body>
-     <table border="0" width="100%" cellpadding="18">
+     
             <tr>
                 <td width="55%"><h1>Sign up</h1><form action="/action_page.php">
   <label for="fname">First name:</label><br>
